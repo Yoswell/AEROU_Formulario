@@ -17,7 +17,7 @@ solicita que desarrolle el sistema de información para que utilice formularios 
 
 <strong>Debe utilizar POO (Programación orientada a objetos) para resolver el problema</strong>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➢ Las clases de objetos (Cliente, Aeropuerto, Aerolínea, Vuelo, Boleto) no deben contener lógica 
-para solicitar información al usuario, solo debe tener la estructura de la clase y sus propiedades.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;para solicitar información al usuario, solo debe tener la estructura de la clase y sus propiedades.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➢ Las clases no deben tener métodos vacíos y recuerde utilizar nombres significativos a sus variables.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➢ Uso de arreglos
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➢ No deben ser arreglos de tipo “string” ni “int”, deben ser arreglos de objetos de las clases definidas.
