@@ -5,7 +5,7 @@ solicita que desarrolle el sistema de información para que utilice formularios 
 
 El sistema debe contar con un menú principal con las siguientes opciones:
 <br>➢ Registro Cliente
-➢ Registro Aeropuerto
+<br>➢ Registro Aeropuerto
 ➢ Registro Aerolínea
 ➢ Registro Vuelo
 ➢ Compra de Boleto
