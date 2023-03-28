@@ -4,7 +4,7 @@
 solicita que desarrolle el sistema de información para que utilice formularios de Windows (Interfaz Gráfica)</strong>
 
 <strong>El sistema debe contar con un menú principal con las siguientes opciones:</strong>
-<br>➢ Registro Cliente
+<br>nbsp;nbsp;nbsp;➢ Registro Cliente
 <br>➢ Registro Aeropuerto
 <br>➢ Registro Aerolínea
 <br>➢ Registro Vuelo
