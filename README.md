@@ -4,7 +4,7 @@ Debido al éxito que se ha obtenido con la primera versión del sistema de infor
 solicita que desarrolle el sistema de información para que utilice formularios de Windows (Interfaz Gráfica).
 
 El sistema debe contar con un menú principal con las siguientes opciones:
-➢ Registro Cliente
+<br>➢ Registro Cliente
 ➢ Registro Aeropuerto
 ➢ Registro Aerolínea
 ➢ Registro Vuelo
