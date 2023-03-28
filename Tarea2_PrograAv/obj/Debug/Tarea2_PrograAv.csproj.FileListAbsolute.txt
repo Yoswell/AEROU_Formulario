@@ -1,0 +1,11 @@
+E:\Progra Avanzada\Tarea2_PrograAv\Tarea2_PrograAv\bin\Debug\Tarea2_PrograAv.exe.config
+E:\Progra Avanzada\Tarea2_PrograAv\Tarea2_PrograAv\bin\Debug\Tarea2_PrograAv.exe
+E:\Progra Avanzada\Tarea2_PrograAv\Tarea2_PrograAv\bin\Debug\Tarea2_PrograAv.pdb
+E:\Progra Avanzada\Tarea2_PrograAv\Tarea2_PrograAv\obj\Debug\Tarea2_PrograAv.csproj.AssemblyReference.cache
+E:\Progra Avanzada\Tarea2_PrograAv\Tarea2_PrograAv\obj\Debug\Tarea2_PrograAv.csproj.SuggestedBindingRedirects.cache
+E:\Progra Avanzada\Tarea2_PrograAv\Tarea2_PrograAv\obj\Debug\Tarea2_PrograAv.Properties.Resources.resources
+E:\Progra Avanzada\Tarea2_PrograAv\Tarea2_PrograAv\obj\Debug\Tarea2_PrograAv.csproj.GenerateResource.cache
+E:\Progra Avanzada\Tarea2_PrograAv\Tarea2_PrograAv\obj\Debug\Tarea2_PrograAv.csproj.CoreCompileInputs.cache
+E:\Progra Avanzada\Tarea2_PrograAv\Tarea2_PrograAv\obj\Debug\Tarea2_PrograAv.exe
+E:\Progra Avanzada\Tarea2_PrograAv\Tarea2_PrograAv\obj\Debug\Tarea2_PrograAv.pdb
+E:\Progra Avanzada\Tarea2_PrograAv\Tarea2_PrograAv\obj\Debug\Tarea2_PrograAv.Formulario.resources
