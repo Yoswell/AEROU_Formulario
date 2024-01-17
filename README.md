@@ -1,5 +1,7 @@
 # AEROU_Formulario
-![Aerouned](https://user-images.githubusercontent.com/113799193/228376183-fb71e025-543a-4bee-a59e-0484af66cde3.png)
+
+![Aerouned](https://github.com/Yoswell/AEROU_Formulario/assets/113799193/c6ee62dc-b3db-429a-88a9-200473aaa489)
+
 <strong>Debido al éxito que se ha obtenido con la primera versión del sistema de información entregada para la empresa AEROUNED, se le ha solicitado el realizar algunas mejoras a la primera versión entregada con el fin de incorporar nuevas funcionalidades, así como, modificar la interfaz de la aplicación, porque se 
 solicita que desarrolle el sistema de información para que utilice formularios de Windows (Interfaz Gráfica)</strong>
 
